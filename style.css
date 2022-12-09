@@ -1,1 +1,28 @@
-inhoud
+body 
+{
+    background-color:hotpink
+}
+
+
+h1
+{
+    color: pink;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p
+{
+color:pink;
+font-family:Georgia, 'Times New Roman', Times, serif; 
+font-size:large
+}
+
+img
+{
+    width: 150px;
+}
+
+ul
+{
+    color:pink;
+}
